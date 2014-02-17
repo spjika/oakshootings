@@ -4,4 +4,4 @@ This is a demo application that uses [CartoDB](http://cartodb.com/), [Torque](ht
 
 It was originally built at a [Code for Philly](http://codeforphilly.org/) civic application workshop by [Mark Headd](http://twitter.com/mheadd) and was redepolyed for Oakland by [Spike](http://twitter.com/spjika).
 
-The visualization displays crime incidents categorized as homicides from 2008 through 2013 (5 years totaling 17,185 incidents, some of which are fireworks and now shootings).
+The visualization displays Shot Spotter incidents from 2008 through 2013 (5 years totaling 17,185 incidents, some of which are fireworks and now shootings).
